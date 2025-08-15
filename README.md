@@ -50,9 +50,6 @@ This study provides valuable insights into employee characteristics, promotion e
 3. Time Frame: The study only analyzed data for a specific time period, which may not reflect long-term trends or patterns.
 
 ### References
-1. HR Database: Organization's HR database (confidential).
-
-
-
+HR Database: Organization's HR database (confidential).
 
 - Promotion eligibility
